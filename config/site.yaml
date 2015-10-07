@@ -1,0 +1,17 @@
+title: Free HTML5/CSS3 Template by Peter Finla  # Name of the site
+author:
+  name: Peter Finla
+metadata:
+    description: 'Halcyon is a free and responsive theme for **Grav**. Its a port of Halcyon template by Styleshout.'
+    
+# Header customization
+header:
+  title: "An Exclusive, Premium HTML5 &amp; CSS3 Template by Peter Finlan, for Codrops."
+  buttons:
+    - text: "Use it for Free"
+      link: "http://tympanus.net/codrops/?p=22554"
+      class: "use-btn animated fadeInUp"
+    - text: "Learn More"
+      link: "#about"
+      class: "learn-btn animated fadeInUp"
+      icon: "arrow-down" 
