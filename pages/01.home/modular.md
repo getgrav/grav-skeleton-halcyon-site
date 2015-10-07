@@ -8,11 +8,10 @@ content:
         by: default
         dir: asc
         custom:
-            - _video
+            - _intro
             - _features
-            - _featureslist
+            - _video
+            - _features2
             - _showcase
             - _screenshots
 ---
-
-
