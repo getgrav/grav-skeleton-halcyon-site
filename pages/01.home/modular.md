@@ -10,8 +10,7 @@ content:
         custom:
             - _intro
             - _features
-            - _video
-            - _features2
+            - _services
             - _showcase
             - _screenshots
 ---
