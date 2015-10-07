@@ -2,13 +2,13 @@
 
 ![Halcyon](assets/readme_1.png)
 
-Halcyon is a stylish HTML5/CSS3 template that was carefully crafted and enhanced with some smooth effects. It’s fitting for any type of portfolio or start-up website, but it’s very flexible and can be used for many other projects. It's made by [Peter Finlan for Codrops](http://tympanus.net/codrops/?p=22554).
+Halcyon Days is a modern and stylish HTML5/CSS3 template with a pixel-perfect design and smooth effects. It’s especially fitting for a portfolio or start-up website, but it’s also very versatile and can be used for many other projects.
 
 # Built on:
 
 * Bootstrap
-* Flickity
-* fancyBox
+* FlexSlider
+* Smooth Scroll
 * jQuery Waypoints
 * Animate.css
 
