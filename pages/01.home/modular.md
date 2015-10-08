@@ -12,5 +12,5 @@ content:
             - _features
             - _services
             - _swag
-            - _screenshots
+            - _portfolio
 ---
