@@ -11,6 +11,6 @@ content:
             - _intro
             - _features
             - _services
-            - _showcase
+            - _swag
             - _screenshots
 ---
