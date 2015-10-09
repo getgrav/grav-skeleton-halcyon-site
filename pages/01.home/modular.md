@@ -13,4 +13,6 @@ content:
             - _services
             - _swag
             - _portfolio
+            - _ignite
+            - _team
 ---
