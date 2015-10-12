@@ -1,5 +1,5 @@
 ---
-hidemenu: true
+title: Portfolio
 portfolio:
   - title: "Creative Minds"
     img: portfolio-01.jpg
@@ -17,7 +17,7 @@ portfolio:
     img_text: View More
     img_url: "#"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero."
-    delay: 1 
+    delay: 1
   - title: "Creative Minds"
     img: portfolio-01.jpg
     img_text: View More

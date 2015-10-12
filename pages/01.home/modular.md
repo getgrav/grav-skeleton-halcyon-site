@@ -15,4 +15,6 @@ content:
             - _portfolio
             - _ignite
             - _team
+            - _subscribe
+            - _contact
 ---

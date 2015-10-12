@@ -1,5 +1,5 @@
 ---
-hidemenu: true
+title: Team
 team:
   - title: "JON SNOW"
     img: team-01.png

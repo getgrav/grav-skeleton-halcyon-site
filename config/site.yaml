@@ -12,3 +12,10 @@ header:
     - text: "Back to the article"
       link: "http://tympanus.net/codrops/?p=19439"
       class: "learn-more-btn"
+
+footer:
+  links:
+    - text: Terms &amp; Conditions
+      url: "#"
+    - text: Legals
+      url: "#"

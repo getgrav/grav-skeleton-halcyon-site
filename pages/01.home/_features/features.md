@@ -1,5 +1,5 @@
 ---
-hidemenu: true
+title: Features
 features:
   - title: "Digital Design"
     icon: laptop shadow
