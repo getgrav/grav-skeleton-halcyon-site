@@ -1,0 +1,13 @@
+name: Halcyon Site
+version: 1.0.0
+description: "Halcyon Days is a modern and stylish HTML5/CSS3 template with a pixel-perfect design and smooth effects."
+icon: group
+author:
+  name: Team Grav
+  email: devs@getgrav.org
+  url: http://getgrav.org
+homepage: https://github.com/getgrav/grav-skeleton-halcyon-site
+demo: http://demo.getgrav.org/halcyon-skeleton
+keywords: halcyon, skeleton, scroll, page, modular
+bugs: https://github.com/getgrav/grav-skeleton-halcyon-site/issues
+license: Free
